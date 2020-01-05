@@ -2,7 +2,7 @@ body{
   background-color: #ffffcc;
 }
 
-img:hover{
+img{
  border-radius:50%;
  background-color: #fbfafa;
 }
