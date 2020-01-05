@@ -4,7 +4,7 @@ body{
 
 img{
  border-radius:50%;
- width: 180px;
+ width: 90px;
  background-color: #fbfafa;
 }
 hr{
@@ -23,4 +23,9 @@ button{
   border-color: #5f10f0;
 }
 
+.mycv{
+  border-radius:50%;
+  width: 90px;
+  background-color:##eaee07;
+}
 
