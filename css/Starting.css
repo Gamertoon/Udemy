@@ -1,7 +1,10 @@
 body{
   background-color: #ffffcc;
 }
-
+.name{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif; 
+}
 img:hover {
  border-radius:50%;
  width: 180px;
